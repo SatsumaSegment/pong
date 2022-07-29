@@ -7,19 +7,19 @@ There's one bug I know of, I might fix one day; the ball can get stuck in the pa
 
 ---|CONTROLS|---
 
-Player1
+-Player1-
 
 W - move up
 
 S - move down
 
-Player2
+-Player2-
 
 UP ARROW - move up
 
 DOWN ARROW - move down
 
 
-Initiate ball (Start Game)
+-Initiate ball (Start Game)-
 
 SPACE
